@@ -1,0 +1,17 @@
+{
+    "name": "mlbin2json",
+    "version": "0.0.1",
+    "description": "Matlab binary data to JSON object converter",
+    "main": "lib/main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "mlbin2json": "bin/mlbin2json.js"
+    },
+    "author": "Arzhan Kinzhalin <arzhan@kinzhalin.com>",
+    "license": "MIT",
+    "dependencies": {
+        "shelljs": "^0.7.5"
+    }
+}
