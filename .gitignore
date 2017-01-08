@@ -1,2 +1,3 @@
 /node_modules
 *.mat
+npm-debug.log
